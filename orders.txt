@@ -1,0 +1,10 @@
+Order Number: ORD #1
+Date: 01-20-2025 11:14:32
+List of consumed products and their price: [Name: Rice and Beans, Price: $30.0, Name: Ice Cream, Price: $22.0, Name: Cookies, Price: $40.0, Name: Beef, Price: $90.0]
+Account owner name: Kendall
+Discount type: 0.05%
+Service tax is: $18.2
+Tax to pay is: $23.66
+Discount is: $11.193
+Final total is: $212.66699999999997
+
