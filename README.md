@@ -55,12 +55,12 @@ A video demonstrating the program's functionality is available. It includes:
 
 ### Adding a new product.
 
-https://github.com/user-attachments/assets/29a8cb5f-f125-4866-ab2b-7f3d3dac6630
+https://github.com/user-attachments/assets/037611cb-0b74-4cec-a97e-7131d31816e1
 
 
 ### Creating an order and generating the general report.
 
-https://github.com/user-attachments/assets/e772e4bf-508a-4cd5-8478-76efc1af9358
+https://github.com/user-attachments/assets/69343dc9-16a6-4be3-a6cb-db5a99931cb3
 
 
 ## Future Improvements
