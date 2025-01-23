@@ -106,7 +106,7 @@ public class Order {
                 "\nService tax is: $" + calcService +
                 "\nTax to pay is: $" + calcIVA +
                 "\nDiscount is: $" + (total * discount) +
-                "\nFinal total is: $" + totalFinal + "\n\n";
+                "\nFinal total is: $" + df.format(totalFinal) + "\n\n";
 
         } else {
 
